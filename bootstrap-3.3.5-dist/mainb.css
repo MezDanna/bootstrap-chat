@@ -1,0 +1,19 @@
+*{
+	padding: 3px;
+	margin: 1px;
+	font-family: 'Roboto', Arial, sans-serif;
+}
+.container-fluid{
+	border: solid gray 1px;
+	border-radius: 8px;
+	padding-bottom: 1px;
+}
+.yellow{
+	padding-bottom: 5%;
+}
+.btn-success{
+	position: relative;
+	left: 88%;
+	padding-left: 34%;
+	bottom: 23%;
+}
